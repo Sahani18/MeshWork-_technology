@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/thefluttercommunity/meshwork_task/BuildConfig.java
+ com.thefluttercommunity.meshwork_task.BuildConfig
+com/thefluttercommunity/meshwork_task/MainActivity.java
+ com.thefluttercommunity.meshwork_task.MainActivity
